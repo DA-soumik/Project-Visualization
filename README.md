@@ -5,4 +5,4 @@ ADIDAS Sales dashboard screenshot :
 
 Healthcare Dashboard screenshot :
 
-![image alt](
+![image alt]("C:\Users\soumi\OneDrive\Pictures\Screenshots\Screenshot (1).png")
