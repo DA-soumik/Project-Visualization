@@ -9,6 +9,8 @@ Healthcare Dashboard screenshot :
 
 ![image alt](https://github.com/DA-soumik/Project-Visualization/blob/main/Healthcare%20domain/hospital.png?raw=true)
 
+Insights :
+
 Retail Sales dashboard screenshot :
 
 ![image alt](https://github.com/DA-soumik/Project-Visualization/blob/main/Retail%20Sales/retail.png?raw=true)
