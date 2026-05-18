@@ -14,3 +14,5 @@ Insights :
 Retail Sales dashboard screenshot :
 
 ![image alt](https://github.com/DA-soumik/Project-Visualization/blob/main/Retail%20Sales/retail.png?raw=true)
+
+Insights :
