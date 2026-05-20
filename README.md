@@ -9,7 +9,7 @@ Healthcare Dashboard screenshot :
 
 ![image alt](https://github.com/DA-soumik/Project-Visualization/blob/main/Healthcare%20domain/hospital.png?raw=true)
 
-Insights :From the dashboard we can see that the private bed is mostly occupied and ICU is less. For each patient id we can track their record from addmission to discharge and feedback for specific doctor and the billing amount. Viral infection case is too high and fracture case is lowest case admitted. The billing amount is almost same but slightly higher than Health insurance amount.
+Insights : From the dashboard we can see that the private bed is mostly occupied and ICU is less. For each patient id we can track their record from addmission to discharge and feedback for specific doctor and the billing amount. Viral infection case is too high and fracture case is lowest case admitted. The billing amount is almost same but slightly higher than Health insurance amount.
 
 Retail Sales dashboard screenshot :
 
