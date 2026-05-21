@@ -15,4 +15,4 @@ Retail Sales dashboard screenshot :
 
 ![image alt](https://github.com/DA-soumik/Project-Visualization/blob/main/Retail%20Sales/retail.png?raw=true)
 
-Insights :
+Insights : From the dashboard we can see that the retail company has acquired total of 583 K sales with total profit of 107K at the rate of 18% . Total sales of Bikes stands top of the list , if we dig into more the mountain bike is the top most sale product and T-shirt is less productive. Western Region stans top region on total sales . September is the peak month for sales and june - july is less productive month .
