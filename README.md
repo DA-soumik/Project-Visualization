@@ -1,5 +1,5 @@
 # Project_Visualization
-  POWER-BI projects.
+  POWER-BI PROJECTS.
   
 ADIDAS Sales dashboard screenshot :
 
