@@ -13,7 +13,7 @@ INSIGHTS : From this addidas sales dashboard , we can see that in that financial
 
 INSIGHTS : From this dashboard we can see that,the private bed is mostly occupied and ICU is less.For each patient id we can track their record from addmission to discharge and feedback for specific doctor and the billing amount. Viral infection case is too high and fracture case is lowest case admitted. The billing amount is almost same but slightly higher than Health insurance amount.
 
-Retail Sales dashboard screenshot :
+3. Retail Sales dashboard screenshot :
 
 ![image alt](https://github.com/DA-soumik/Project-Visualization/blob/main/Retail%20Sales/retail.png?raw=true)
 
